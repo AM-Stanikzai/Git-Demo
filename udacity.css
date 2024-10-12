@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+header {
+  text-align: center;
+  margin: 5% 20% 0 20%;
+}
+.container {
+  display: flex;
+  margin: 0 20%;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+ul {
+  display: inline;
+
+  list-style: none;
+}
